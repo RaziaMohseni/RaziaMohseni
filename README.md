@@ -11,20 +11,18 @@
 ---
 
 ## 🌌 About Me
-
 ```python
 class RaziaMohseni:
-    def __init__(self):
-        self.name       = "Razia Mohseni"
-        self.university = "Shahid Beheshti University, Tehran"
-        self.degree     = "B.Sc. Computer Science"
-        self.mission    = "Build meaningful, user-centered & scalable tech"
-        self.quote      = "Life is like riding a bicycle 🚲"
-        self.status     = "Always learning, always growing 🌱"
+def __init__(self):
+self.name       = "Razia Mohseni"
+self.university = "Shahid Beheshti University, Tehran"
+self.degree     = "B.Sc. Computer Science"
+self.mission    = "Build meaningful, user-centered & scalable tech"
+self.quote      = "Life is like riding a bicycle 🚲"
+self.status     = "Always learning, always growing 🌱"
 
-    def say_hi(self):
-        print("Hello, Universe! 👋  Let's code and have FUN! 🚀")
-```
+def say_hi(self):
+print("Hello, Universe! 👋  Let's code and have FUN! 🚀")
 
 ---
 
@@ -98,3 +96,5 @@ class RaziaMohseni:
 
 <!-- Galaxy Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1b4b,50:1a0a4e,100:0a0a2e&height=120&section=footer&animation=fadeIn)
+
+.
